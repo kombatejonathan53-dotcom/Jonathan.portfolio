@@ -52,10 +52,16 @@ body {
 
     letter-spacing: 1px;
 }
-
 .carte h2 {
-    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+
+    font-size: 19px;
+    font-weight: 600;
+
     color: #1769aa;
+
+    letter-spacing: 0.5px;
 }
 
 .carte p {
